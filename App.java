@@ -3,4 +3,7 @@ class App{
 		System.out.println("Hey there..");
 		System.out.println("Hey there..");
 	} 
+	class Dog{
+		int age;
+	}
 }
